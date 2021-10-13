@@ -1,0 +1,2 @@
+Streamlit == 0.87.0
+pandas == 0.25.3
