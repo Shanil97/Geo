@@ -3,7 +3,7 @@ import pandas as pd
 from streamlit_keplergl import keplergl_static
 
 
-df=pd.read_csv('western.csv')
+df=pd.read_csv('https://raw.githubusercontent.com/Shanil97/Geo/main/western.csv')
 # print('Shape=>',df.shape)
 # print(df.head())
 
