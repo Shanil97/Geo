@@ -3,7 +3,7 @@ import pandas as pd
 from streamlit_keplergl import keplergl_static
 
 
-df=pd.read_csv('D:\Intern\distribution optimization\intermediate_solution/score.csv')
+df=pd.read_csv('western.csv')
 # print('Shape=>',df.shape)
 # print(df.head())
 
